@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/HamzaBookStore/.vs/HamzaBookStore/v16
+/HamzaBookStore/HamzaBookStore/obj
+/MHamzaBookStore/.vs/MHamzaBookStore/v16
+/MHamzaBookStore/.vs/MHamzaBookStore/config
+/MHamzaBookStore/MHamzaBookStore/bin/Debug/netcoreapp3.1
+/MHamzaBookStore/MHamzaBookStore/obj
